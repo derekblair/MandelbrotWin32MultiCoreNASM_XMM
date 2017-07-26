@@ -1,7 +1,7 @@
 # MandelbrotWin32MultiCoreNASMXMM
 A minimalistic Win32 implementation of a Mandelbrot Set renderer that utilizes multiple threads and SIMD xmm registers the the NASM assembler. 
 
-##Build Instructions
+## Build Instructions
 
 1. Download and install [Dev C++ 5](http://sourceforge.net/projects/dev-cpp/files/Binaries/Dev-C%2B%2B%204.9.9.2/devcpp-4.9.9.2_setup.exe/download?use_mirror=iweb)
 2. Download and install [Nasm Win32](http://sourceforge.net/projects/nasm/files/Win32%20binaries/2.07/nasm-2.07-win32.zip/download)
