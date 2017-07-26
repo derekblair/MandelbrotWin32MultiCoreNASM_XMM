@@ -38,7 +38,7 @@ _mandelbrot:
   mov edi,ecx
 					
   movups fourreg, [fourdat]							; load up the registers
-  movups shufflereg, [shuffledat]					; shuffledat shit foo muthafucka!!!!!!
+  movups shufflereg, [shuffledat]					
 
   xor edx,edx										; zero traverser,dl = column,dh = row
 
